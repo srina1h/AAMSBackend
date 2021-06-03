@@ -1,12 +1,12 @@
 <h1 align="center">Attendance Management System with Facial Recognition</h1>
-<h2 align="center"><a href="https://github.com/srinathsrinivasan1/AAMSFrontend">Refer to main repo</a></h2>
+<h2 align="center"><a href="https://github.com/srina1h/AAMSFrontend">Refer to main repo</a></h2>
 <h2 align="center">A comprehensive and lightweight attendance management system ready for deployment in the real world</h2>
 <h4 align="center">The system is able to register new students along with their subjects, and is able to record a classrooms' attendance through facial recognition. The data collected is stored in a simple local MySQL database</h4>
 
 ## How to run the server backend on local system
 #### Clone backend repository
 ```bash
-git clone https://github.com/srinathsrinivasan1/AAMSBackend
+git clone https://github.com/srina1h/AAMSBackend
 ```
 #### move to folder and install dependencies
 ```bash
